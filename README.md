@@ -4,7 +4,7 @@ An image to text converter using deep learning library
 <img src="Optical character Reader -thumb.png">
 
 ## How it works?
-Checkout my youtube video-> 
+Checkout my youtube video-> https://youtu.be/tks_2EUGVLA
 
 ## Try Demo!
 No need to install try it out -> https://analyticalnahid-image-to-text-converter-ocr-3rkghv.streamlitapp.com/
