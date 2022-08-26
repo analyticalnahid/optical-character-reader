@@ -9,11 +9,6 @@ os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
 #title
 st.title("Easy OCR - Extract Text from Images")
 
-#subtitle
-st.markdown("## Optical Character Recognition - Using `easyocr`, `streamlit`")
-
-st.markdown("")
-
 #image uploader
 image = st.file_uploader(label = "Upload your image here",type=['png','jpg','jpeg'])
 
