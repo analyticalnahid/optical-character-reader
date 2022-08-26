@@ -26,6 +26,8 @@ Must have to satisfy all the requirements
 
 #### When to use it?
 When you got somethings useful in paragraph/large text but don't want to write it manually then this tools for you. 
+#### Which language does it support?
+For now it support english only but I can extend it to others language also.
 
 
 
