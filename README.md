@@ -1,5 +1,5 @@
 # Image-To-Text-Converter
-A simple image to text converter using some predefined library
+An image to text converter using deep learning library
 
 ## How it works?
 Checkout my youtube video-> 
