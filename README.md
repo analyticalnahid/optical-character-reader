@@ -25,7 +25,7 @@ Must have to satisfy all the requirements
 ## FAQ
 
 #### When to use it?
-When your you got somethings useful in paragraph/large text but don't want to write it manually then this tools for you. 
+When you got somethings useful in paragraph/large text but don't want to write it manually then this tools for you. 
 
 
 
