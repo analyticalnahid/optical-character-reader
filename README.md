@@ -5,7 +5,7 @@ An image to text converter using deep learning library
 Checkout my youtube video-> 
 
 ## Try Demo!
-No need to install try it out -> https://share.streamlit.io/analyticalnahid/image-to-text-converter/main/ocr.py
+No need to install try it out -> https://analyticalnahid-image-to-text-converter-ocr-3rkghv.streamlitapp.com/
 
 ## Requirements
 - easyocr==1.5.0
