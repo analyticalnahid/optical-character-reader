@@ -1,5 +1,5 @@
 # Image-To-Text-Converter
-An image to text converter using deep learning library
+An image to text converter using deep learning library.
 
 <img src="Optical character Reader -thumb.png">
 
